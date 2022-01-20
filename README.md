@@ -13,7 +13,7 @@ A simple CSGO Quiz App. First time using Unity.
 Open the application by launching QuizGame2.exe at CSGOQuiz\QuizGame2\Builds\Windows\x86_64.
 
 ## Help
-Restart the application by stopping and re-running main.py if you encounter any difficulties using the application.
+Restart the application if you encounter any difficulties using the application.
 
 ## Authors
 C.Y. Yan
